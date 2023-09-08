@@ -17,9 +17,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>tv.Twitch</string>
+                <string>tv.twitch</string>
                 <key>bundle-version</key>
-                <string>v16.1</string>
+                <string>16.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
